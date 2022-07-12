@@ -56,7 +56,7 @@ Codes for the calculation of the equivalent economic loss are available at `Supp
 ```
 @ARTICLE{Wang_2022, 
 author={Q. {Wang} and Q. {Zhou} and M. {Lin} and B. {Nie}}, 
-journal={...}, 
+journal={iScience}, 
 title={Human injury-based safety decision of automated vehicles}, 
 year={2022}, 
 }
